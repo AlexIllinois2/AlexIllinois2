@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 
 ## 跨平台
-- 表情包管理与分享: [咪萌](meme)
+- 表情包管理与分享: [咪萌](/AlexIllinois2/meme)
 ## 安卓
-- 自动冻结: [怠](snub) (需root)
+- 自动冻结: [怠](/AlexIllinois2/snub) (需root)
 - MultiTTS字节语音包文字读音修补: [midu_unified_rule](AlexIllinois2/midu_unified_rule)
 ## PC
 - 笔记管理(仿vscode): [vsnote](AlexIllinois2/vsnote)
